@@ -1,0 +1,14 @@
+jad:
+  city_name: 'Shanghai'
+  location: 'Shanghai, China'
+  github_username: 'ssaunier'
+
+boris:
+  city_name: 'Paris'
+  location: 'Paris, France'
+  github_username: 'Papillard'
+
+seb:
+  city_name: 'London'
+  location: 'London, UK'
+  github_username: 'ssaunier'

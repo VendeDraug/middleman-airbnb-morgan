@@ -1,6 +1,5 @@
 ssaunier:
   name: "Sebastien's home"
-  github_username: ssaunier
   description: "Charming room in Montmartre"
   city_name: "Paris, France"
   city_slug: "paris"
@@ -8,7 +7,6 @@ ssaunier:
   rating: 4
 papillard:
   name: "Boris' home"
-  github_username: papillard
   description: Small flat in Tokyo
   city_name: "Tokyo, Japan"
   city_slug: "tokyo"
@@ -16,7 +14,6 @@ papillard:
   rating: 3
 monsieurpaillard:
   name: Romain's home
-  github_username: monsieurpaillard
   description: Nice flat in Piccadilly
   city_name: "London, UK"
   city_slug: "london"
